@@ -50,7 +50,7 @@ body {
 #Banner {
 	width: 100%;
 	height: 480px;
-	background-color: #FFFFFF;
+	background-color: #F8f8f8;
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: right bottom;
@@ -230,6 +230,7 @@ ul, li {
 
 }
 #Banner2{
+	background-color: #f8f8f8;
 }
 #innerBody2{
 }
