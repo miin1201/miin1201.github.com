@@ -262,3 +262,9 @@ ul, li {
     height:150%;
 	width: 80%;
 	padding-bottom:30px;}
+.mt-10 {
+	margin-top: 10px;
+}
+.mb-10 {
+	margin-bottom: 10px;
+}
